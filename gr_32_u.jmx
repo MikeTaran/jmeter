@@ -1120,7 +1120,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">hw_1.csv</stringProp>
+          <stringProp name="filename">F:\IT\QA_32\JMeter\apache-jmeter-5.5\apache-jmeter-5.5\bin\hw_1.csv</stringProp>
           <boolProp name="useGroupName">true</boolProp>
         </ResultCollector>
         <hashTree/>
@@ -1158,7 +1158,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">hw_1.csv</stringProp>
+          <stringProp name="filename">F:\IT\QA_32\JMeter\apache-jmeter-5.5\apache-jmeter-5.5\bin\hw_1.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <kg.apc.jmeter.vizualizers.CorrectedResultCollector guiclass="kg.apc.jmeter.vizualizers.ThreadsStateOverTimeGui" testclass="kg.apc.jmeter.vizualizers.CorrectedResultCollector" testname="jp@gc - Active Threads Over Time" enabled="true">
@@ -1195,7 +1195,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">hw_1.csv</stringProp>
+          <stringProp name="filename">F:\IT\QA_32\JMeter\apache-jmeter-5.5\apache-jmeter-5.5\bin\hw_1.csv</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -1240,7 +1240,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">F:\IT\QA_32\JMeter\apache-jmeter-5.5\apache-jmeter-5.5\bin\hw_1.csv</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -1285,7 +1285,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">F:\IT\QA_32\JMeter\apache-jmeter-5.5\apache-jmeter-5.5\bin\hw_1.csv</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -1330,7 +1330,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">F:\IT\QA_32\JMeter\apache-jmeter-5.5\apache-jmeter-5.5\bin\hw_1.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -1375,7 +1375,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">hw_1.csv</stringProp>
+          <stringProp name="filename">F:\IT\QA_32\JMeter\apache-jmeter-5.5\apache-jmeter-5.5\bin\hw_1.csv</stringProp>
           <boolProp name="ResultCollector.success_only_logging">true</boolProp>
         </ResultCollector>
         <hashTree/>
